@@ -15,7 +15,7 @@ If you can't lets get in contact and work it up together
 
 ---
 
-## About me:
+### About me:
 I am a computer scientist passionate about research, machine learning and general AI.
 
 * My usual work is on data modeling, creation of ML models and data visualization.
@@ -27,7 +27,7 @@ I am a computer scientist passionate about research, machine learning and genera
 
 ---
 
-## My Stats:
+### My Stats:
 I just want to leave this here and see how it changes over the years, maybe i'll write my own productivity tracker some day.
 
 <div align="center">
