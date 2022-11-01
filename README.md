@@ -20,7 +20,7 @@ I am a computer scientist passionate about research, machine learning and genera
 
 * My usual work is on data modeling, creation of ML models and data visualization.
   
-* My favorite kind of ML problems involve reinforced and deep reinforced learning, probably because I love watching animations on the improvement of a model!
+* My favorite kind of ML problems involve reinforced and deep reinforced learning, probably because I love watching animations of the model improvement!
  
 * I've got into computer graphics and procedural content generaion lately as a hobby, I'm sure it's a coping mechanism for my lack of art skills.
 
