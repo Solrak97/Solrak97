@@ -20,7 +20,7 @@ At the moment I am working as a data scientist for an electrical and telecom ser
 
 There is quite a bit of data enngineering work on my day to day and a few key moments of Data/ML ops that I really enjoy since I can explore new things.
 
-A few extra points that are not work related but hobby relates:
+A few extra points that are not work related but I still love to talk about them:
   
 * My favorite kind of ML problems involve reinforced and deep reinforced learning, probably because I love watching animations of the model improvement!
  
