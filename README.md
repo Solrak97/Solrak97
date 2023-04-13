@@ -16,9 +16,11 @@ If you can't lets get in contact and work it up together
 ---
 
 ### About me:
-I am a computer scientist passionate about research, machine learning and general AI.
+At the moment I am working as a data scientist for an electrical and telecom services provider, most of my work is data modeling and exploration, creation of ML models and data visualization as tools consumed by data analysts.
 
-* My usual work is on data modeling, creation of ML models and data visualization.
+There is quite a bit of data enngineering work on my day to day and a few key moments of Data/ML ops that I really enjoy since I can explore new things.
+
+A few extra points that are not work related but hobby relates:
   
 * My favorite kind of ML problems involve reinforced and deep reinforced learning, probably because I love watching animations of the model improvement!
  
