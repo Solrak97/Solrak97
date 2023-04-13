@@ -16,9 +16,9 @@ If you can't lets get in contact and work it up together
 ---
 
 ### About me:
-At the moment I am working as a data scientist for an electrical and telecom services provider, most of my work is data modeling and exploration, creation of ML models and data visualization as tools consumed by data analysts.
+I am currently working as a data scientist for a telecom and electrical service provider, most of my work is data modeling and exploration, ML modeling and data visualization as tools for some data analysis processes. 
 
-There is quite a bit of data enngineering work on my day to day and a few key moments of Data/ML ops that I really enjoy since I can explore new things.
+There is quite a bit of data engineering work going on in my day to day, also a few moments of Data/ML-ops entangled on the development process, I love taking part on those as Im able to learn about some new stuff.
 
 A few extra points that are not work related but I still love to talk about them:
   
