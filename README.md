@@ -16,16 +16,9 @@ If you can't lets get in contact and work it up together
 ---
 
 ### About me:
-I am currently working as a data scientist for a telecom and electrical service provider, most of my work is data modeling and exploration, ML modeling and data visualization as tools for some data analysis processes. 
+It's been a while since I had time to work on my personal projects here, I am pretty busy right now in the world of data retrieval and NLP, lerning how to leverage the power of GenAI for info retrieval has been an interesting journey so far and I'm eager to keep working on the many challenges I face everyday.
 
-There is quite a bit of data engineering work going on in my day to day, also a few moments of Data/ML-ops entangled on the development process, I love taking part on those as I'm able to learn about some new stuff.
-
-A few extra points that are not work related but I still love to talk about them:
-  
-* My favorite kind of ML problems involve reinforced and deep reinforced learning, probably because I love watching animations of the model improvement!
- 
-* I've got into computer graphics and procedural content generaion lately as a hobby, I'm sure it's a coping mechanism for my lack of art skills.
-
+My productivity tracker must be so lame at the time of reading this, but there is too much to do right now to be worried about something like that.
 
 ---
 
