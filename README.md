@@ -17,5 +17,5 @@ If you can't lets get in contact and work it up together
 
 
 ![](https://img.shields.io/badge/day%20📅-2-blue)
-![](https://img.shields.io/badge/stars%20⭐-0-yellow)
-![](https://img.shields.io/badge/days%20completed-0-red)
+![](https://img.shields.io/badge/stars%20⭐-2-yellow)
+![](https://img.shields.io/badge/days%20completed-1-red)
