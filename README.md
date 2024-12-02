@@ -30,3 +30,11 @@ I just want to leave this here and see how it changes over the years, maybe i'll
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solrak97)](https://git.io/streak-stats)
 
 </div>
+
+
+# AoC-2023
+
+
+![](https://img.shields.io/badge/day%20📅-25-blue)
+![](https://img.shields.io/badge/stars%20⭐-4-yellow)
+![](https://img.shields.io/badge/days%20completed-2-red)
