@@ -13,25 +13,6 @@ If you can't lets get in contact and work it up together
 </div>
 </div>
 
----
-
-### About me:
-It's been a while since I had time to work on my personal projects here, I am pretty busy right now in the world of data retrieval and NLP, lerning how to leverage the power of GenAI for info retrieval has been an interesting journey so far and I'm eager to keep working on the many challenges I face everyday.
-
-My productivity tracker must be so lame at the time of reading this, but there is too much to do right now to be worried about something like that.
-
----
-
-### My Stats:
-I just want to leave this here and see how it changes over the years, maybe i'll write my own productivity tracker some day.
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solrak97)](https://git.io/streak-stats)
-
-</div>
-
-
 # AoC-2023
 
 
