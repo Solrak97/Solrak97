@@ -13,7 +13,7 @@ If you can't lets get in contact and work it up together
 </div>
 </div>
 
-# AoC-2023
+# AoC-2024
 
 
 ![](https://img.shields.io/badge/day%20📅-25-blue)
