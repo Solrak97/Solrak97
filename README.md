@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
 ## Hey, I hope you find what you are looking for in my profile!
-If you can't lets get in contact and work it up together
+If you can't, lets get in contact and work it up together
 
 <div id="badges">
 <a href="http://www.linkedin.com/in/solrak">
